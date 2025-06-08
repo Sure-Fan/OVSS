@@ -1,4 +1,4 @@
-# Open-Vocabulary Semantic Segmentation of training-free
+# Open-vocabulary semantic segmentation of training-free
 1. [2022 CVPR] **GroupViT: Semantic Segmentation Emerges from Text Supervision** [[paper]](https://arxiv.org/pdf/2202.11094) [[code]](https://github.com/NVlabs/GroupViT?tab=readme-ov-file)
 2. [2023 CVPR] **Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning** [[paper]](https://arxiv.org/pdf/2212.04994)
 3. [2023 CVPR] **Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs** [[paper]](https://arxiv.org/pdf/2212.00785) [[code]](https://github.com/khanrc/tcl?tab=readme-ov-file)
